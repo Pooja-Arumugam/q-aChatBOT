@@ -14,6 +14,31 @@ A simple and interactive **Streamlit** app that lets you generate text using a l
 
 ---
 
+## What Motivated Me to Build This Project
+
+As someone passionate about language models and user-friendly tools, I wanted to create a lightweight yet powerful interface that allows anyone to experiment with text generation in real time. Most LLM APIs are accessible only through code, so I built this app to make that experience interactive, visual, and beginner-friendly — no coding required.
+
+This project is also a step toward democratizing AI tools and helping people understand how small changes (like temperature and token count) can dramatically impact AI behavior.
+
+---
+
+## Project Highlights: A Technical Overview
+
+- **Framework**: Built using [Streamlit](https://streamlit.io/) for a fast, responsive, and clean UI.
+- **API Integration**: Connects securely to an LLM backend (e.g., OpenAI, Groq) using a user-provided API key.
+- **Dynamic Controls**: 
+  - **Temperature Slider**: Controls response randomness (`0.0` = consistent, `1.0` = diverse).
+  - **Max Tokens Slider**: Limits output length for precise control over verbosity.
+- **Security**: API key input is session-based and never stored or logged.
+- **Customization-Ready**: Easily extendable to support multiple models, prompt templates, or response formatting.
+
+---
+
+## Why This Matters to Me
+
+Language models are powerful tools, but they’re often hidden behind developer interfaces. I believe that giving everyone — from students to creators — an intuitive way to interact with these models can unlock creativity, learning, and innovation. This app is my contribution to that goal: making cutting-edge AI more accessible and understandable for all.
+---
+
 ## App Preview
 <img width="1838" height="886" alt="image" src="https://github.com/user-attachments/assets/17ec611d-43d4-4bf3-9e3c-7587f2839bf6" />
 
