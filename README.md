@@ -36,7 +36,9 @@ This project is also a step toward democratizing AI tools and helping people und
 
 ## Why This Matters to Me
 
-Language models are powerful tools, but they’re often hidden behind developer interfaces. I believe that giving everyone — from students to creators — an intuitive way to interact with these models can unlock creativity, learning, and innovation. This app is my contribution to that goal: making cutting-edge AI more accessible and understandable for all.
+- Language models are powerful tools, but they’re often hidden behind developer interfaces.
+- I believe that giving everyone, from students to creators, an intuitive way to interact with these models can unlock creativity, learning, and innovation.
+- This app is my contribution to that goal: making cutting-edge AI more accessible and understandable for all.
 ---
 
 ## App Preview
