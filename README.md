@@ -15,10 +15,8 @@ A simple and interactive **Streamlit** app that lets you generate text using a l
 ---
 
 ## App Preview
+<img width="1838" height="886" alt="image" src="https://github.com/user-attachments/assets/17ec611d-43d4-4bf3-9e3c-7587f2839bf6" />
 
-![App Screenshot](screenshot.png)
-
-> _Add a screenshot named `screenshot.png` in your project root folder._
 
 ---
 
